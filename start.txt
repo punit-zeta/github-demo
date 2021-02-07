@@ -1,0 +1,1 @@
+Using echo then >> it will paste this data to specified file
